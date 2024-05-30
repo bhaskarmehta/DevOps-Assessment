@@ -1,3 +1,5 @@
+Please build a cloud infrastructure and CI/CD pipeline for a Notification Service built in Node.js ecosystem. Please fork the assessment repo, following the instructions, build the solution, prepare a screencast, raise a pull request and share both the pull request link and screencast link here in the response. 
+
 # PearlThoughts Interview Assessment
 # Scalable Notification Service Deployment on AWS
 
